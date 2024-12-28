@@ -1,0 +1,40 @@
+body{
+background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.canvas {
+	margin: 0 auto;
+	width: 900px;
+	display: flex;
+	justify-content: center;
+}
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 30px;
+	color: 	#0000FF;
+}
+.description {
+	width: 900px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 40px;
+	color: blueviolet;
+}
+button{
+	font-size: 30px;
+	background: greenyellow;
+	padding: 5px;
+	border-radius: 5px;
+	border: none;
+}
+.control{
+	width: 900px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
